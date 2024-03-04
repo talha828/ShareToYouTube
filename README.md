@@ -1,4 +1,4 @@
-# share_to_youtube
+# ShareToYouTube
 
 A new Flutter project.
 
